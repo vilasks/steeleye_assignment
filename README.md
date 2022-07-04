@@ -9,7 +9,7 @@ home-url:https://steel-eye.herokuapp.com/
   
 1.  https://steel-eye.herokuapp.com/get_all_trades/   (to get all trades)
    
-2. https://steel-eye.herokuapp.com/get_all_trades/?page="page number"&sort_by="column_name"  
+2. https://steel-eye.herokuapp.com/get_all_trades/?page="page number"&sort_by="column_name"   (note:The page numbers should be in multiples of 10)
 
 (get trades by page each page has 10 trades and sortby to sort using columns both parameters are optional and can be used individully)
   
